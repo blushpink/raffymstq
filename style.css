@@ -1,24 +1,25 @@
 body {
-        background-color:#ffd9d3;
-        font-family: garamond;
+        background-color: #ffd9d3;
+        color: #000;
+        font-family: georgia;
         font-size: 100%;
         }
 
       h1 {
-        color: hotpink;
-        font-family: verdana;
+        color: #f79f91;
+        font-family: georgia;
         font-size: 200%;
         }
 
       p {
-        color: red;
-        font-family: courier;
+        color: #000;
+        font-family: georgia;
         font-size: 160%;
         }
       
       ul {
-        color: purple;
-        font-family: courier;
+        color: #f79f91;
+        font-family: georgia;
         font-size: 100%;
         }
       
